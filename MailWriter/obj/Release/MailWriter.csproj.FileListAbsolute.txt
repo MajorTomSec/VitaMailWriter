@@ -1,0 +1,16 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Release\MailWriter.exe.config
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Release\MailWriter.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Release\MailWriter.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Release\MailWriter.Form1.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Release\MailWriter.Properties.Resources.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Release\MailWriter.csproj.GenerateResource.Cache
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Release\MailWriter.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Release\MailWriter.pdb
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\bin\Release\MailWriter.exe.config
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\obj\Release\MailWriter.exe
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\obj\Release\MailWriter.pdb
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\obj\Release\MailWriter.Form1.resources
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\obj\Release\MailWriter.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\obj\Release\MailWriter.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\bin\Release\MailWriter.exe
+C:\Users\Thomas\Desktop\Projets\MailWriter\MailWriter\bin\Release\MailWriter.pdb
