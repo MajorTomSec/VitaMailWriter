@@ -57,7 +57,7 @@ namespace MailWriter
 
                             foreach (ListViewItem file in _files.Items)
                             {
-                                var vitaPath = file.SubItems[0].Text.Replace(@"\", @"\\").Replace("/", "//");
+                                var vitaPath = file.SubItems[0].Text.Replace(@"\", @"\\").Replace("/", @"\\");
 
                                 mail += '\n' + Properties.Resources.AttachmentTemplate;
                                 mail = mail.Replace("%path%", vitaPath)

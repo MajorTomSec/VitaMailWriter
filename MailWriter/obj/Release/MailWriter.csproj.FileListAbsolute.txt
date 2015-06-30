@@ -19,6 +19,6 @@ C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.exe
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.pdb
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\bin\Release\MailWriter.exe
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\bin\Release\MailWriter.pdb
-C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.MainForm.resources
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.Properties.Resources.resources
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.Main.resources
