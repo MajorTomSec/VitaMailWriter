@@ -117,6 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AttachmentTemplate" xml:space="preserve">
+    <value>Content-Type: image/png;
+ name="\..\..\..\%path%"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="\\..\\..\\..\\%path%"
+
+%content%
+--------------030407010806050701040907</value>
+  </data>
   <data name="MailTemplate" xml:space="preserve">
     <value>Received: from [127.0.0.1] ([8.8.8.8])
         by mx.google.com with ESMTPSA id vb5sm647269vdb.5.2014.12.13.00.05.29
@@ -129,7 +139,7 @@ From: writer &lt;writer@filesystem.com&gt;
 User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
 MIME-Version: 1.0
 To: writer@filesystem.com
-Subject: %path%
+Subject: %subject%
 Content-Type: multipart/mixed;
  boundary="------------030407010806050701040907"
 
@@ -140,14 +150,6 @@ Content-Transfer-Encoding: 7bit
 
  
 
---------------030407010806050701040907
-Content-Type: image/png;
- name="\..\..\..\%path%"
-Content-Transfer-Encoding: base64
-Content-Disposition: attachment;
- filename="\\..\\..\\..\\%path%"
-
-%content%
 --------------030407010806050701040907</value>
   </data>
 </root>
