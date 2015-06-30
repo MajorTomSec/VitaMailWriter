@@ -1,9 +1,0 @@
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Debug\MailWriter.exe.config
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Debug\MailWriter.exe
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\bin\Debug\MailWriter.pdb
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.csprojResolveAssemblyReference.cache
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.Form1.resources
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.Properties.Resources.resources
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.csproj.GenerateResource.Cache
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.exe
-C:\Users\Thomas\AppData\Local\Temporary Projects\MailWriter\obj\Debug\MailWriter.pdb
