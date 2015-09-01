@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MailWriter</name>
+    </assembly>
+    <members>
+        <member name="F:MailWriter.Main.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MailWriter.Main.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MailWriter.Main.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MailWriter.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MailWriter.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MailWriter.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MailWriter.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:MailWriter.Properties.Resources.AttachmentTemplate">
+             <summary>
+               Looks up a localized string similar to Content-Type: image/png;
+             name=&quot;\..\..\..\%path%&quot;
+            Content-Transfer-Encoding: base64
+            Content-Disposition: attachment;
+             filename=&quot;\\..\\..\\..\\%path%&quot;
+            
+            %content%
+            --------------030407010806050701040907.
+             </summary>
+        </member>
+        <member name="P:MailWriter.Properties.Resources.MailTemplate">
+             <summary>
+               Looks up a localized string similar to Received: from [127.0.0.1] ([8.8.8.8])
+                    by mx.google.com with ESMTPSA id vb5sm647269vdb.5.2014.12.13.00.05.29
+                    for &lt;writer@filesystem.com&gt;
+                    (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+                    Sat, 13 Dec 2014 00:05:43 -0800 (PST)
+            Message-ID: &lt;548BF310.8020104@gmail.com&gt;
+            Date: Sat, 13 Dec 2014 11:04:32 +0300
+            From: writer &lt;writer@filesystem.com&gt;
+            User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.3.0
+            MIME-Version: 1.0
+            To: [rest of string was truncated]&quot;;.
+             </summary>
+        </member>
+    </members>
+</doc>

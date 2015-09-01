@@ -22,3 +22,12 @@ C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\bin\Release\MailWriter.pdb
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.Properties.Resources.resources
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.csproj.GenerateResource.Cache
 C:\Users\Thomas\Documents\VitaMailWriter\MailWriter\obj\Release\MailWriter.Main.resources
+C:\Git\VitaMailWriter\MailWriter\bin\Release\MailWriter.exe.config
+C:\Git\VitaMailWriter\MailWriter\bin\Release\MailWriter.XML
+C:\Git\VitaMailWriter\MailWriter\bin\Release\MailWriter.exe
+C:\Git\VitaMailWriter\MailWriter\bin\Release\MailWriter.pdb
+C:\Git\VitaMailWriter\MailWriter\obj\Release\MailWriter.Main.resources
+C:\Git\VitaMailWriter\MailWriter\obj\Release\MailWriter.Properties.Resources.resources
+C:\Git\VitaMailWriter\MailWriter\obj\Release\MailWriter.csproj.GenerateResource.Cache
+C:\Git\VitaMailWriter\MailWriter\obj\Release\MailWriter.exe
+C:\Git\VitaMailWriter\MailWriter\obj\Release\MailWriter.pdb
