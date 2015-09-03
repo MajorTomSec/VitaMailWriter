@@ -5,3 +5,4 @@ MailWriter is a tool aiming to write or overwrite files on PSVita's memcard (kno
 - Major_Tom
 - mr.gas
 - MysteryDash
+- cfwprophet
