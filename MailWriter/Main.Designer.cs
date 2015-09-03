@@ -163,6 +163,7 @@
             this.MaximizeBox = false;
             this.Name = "Main";
             this.Text = "EML File generator";
+            this.Load += new System.EventHandler(this.Main_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

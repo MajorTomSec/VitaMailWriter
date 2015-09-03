@@ -1,0 +1,9 @@
+C:\Git\VitaMailWriter\MailWriter\bin\Debug\MailWriter.exe.config
+C:\Git\VitaMailWriter\MailWriter\bin\Debug\MailWriter.exe
+C:\Git\VitaMailWriter\MailWriter\bin\Debug\MailWriter.pdb
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.csprojResolveAssemblyReference.cache
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.Main.resources
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.Properties.Resources.resources
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.csproj.GenerateResource.Cache
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.exe
+C:\Git\VitaMailWriter\MailWriter\obj\Debug\MailWriter.pdb
